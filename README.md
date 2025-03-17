@@ -1,2 +1,2 @@
 # Python
-Códigos em LInguagem Python
+Um repositório que contem códigos e ánalises em linguagem Python
